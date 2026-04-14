@@ -1,18 +1,16 @@
-# DataScribe 🪶
+# DataScribe 📊
 **A RAG-Powered Pipeline Explainer for Accelerated Developer Onboarding**
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![RAG Architecture](https://img.shields.io/badge/Architecture-RAG-orange.svg)]()
 [![COT6930 Final Project](https://img.shields.io/badge/FAU-COT6930-navy.svg)]()
 
-> Demystifying complex data engineering workflows through contextual Generative AI.
-
 
 <br>
 
 ## 📖 Overview
 
-In data engineering and machine learning ecosystems, onboarding developers to complex, undocumented data pipelines is a severe operational bottleneck. When engineers need to dive into unfamiliar codebases—such as clinical risk prediction engines, time-series forecasters, or heavy ETL workflows—manually tracing the data flow takes days. 
+In data engineering and machine learning ecosystems, onboarding developers to complex, undocumented data pipelines is a severe operational bottleneck. When engineers need to dive into unfamiliar codebases-such as clinical risk prediction engines, time-series forecasters, or heavy ETL workflows, manually tracing the data flow takes days. 
 
 **DataScribe** is a Retrieval-Augmented Generation (RAG) application that autonomously ingests repository documentation and complex scripts to build a contextual knowledge base. It generates highly accurate, plain-English explanations of the data architecture and system flow, bridging the gap between raw code and developer comprehension.
 
