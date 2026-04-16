@@ -57,7 +57,7 @@ This project includes three structured experiments to evaluate the performance o
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/yourusername/DataScribe.git](https://github.com/yourusername/DataScribe.git)
+git clone [https://github.com/Kartavyasoni/DataScribe.git](https://github.com/Kartavyasoni/DataScribe.git)
 cd DataScribe
 ```
 
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 **4. Configure Environment Variables**
 
-Create a .env file in the root directory and add your API keys:
+Create a `.env` file in the root directory and add your API keys:
 
 ```bash
 LLM_API_KEY=your_api_key_here
